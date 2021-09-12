@@ -1,0 +1,13 @@
+D:\Projetos\VSCode\Projects\Media\bin\Debug\netcoreapp3.1\Media.exe
+D:\Projetos\VSCode\Projects\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+D:\Projetos\VSCode\Projects\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+D:\Projetos\VSCode\Projects\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+D:\Projetos\VSCode\Projects\Media\bin\Debug\netcoreapp3.1\Media.dll
+D:\Projetos\VSCode\Projects\Media\bin\Debug\netcoreapp3.1\Media.pdb
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.dll
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.pdb
+D:\Projetos\VSCode\Projects\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache
