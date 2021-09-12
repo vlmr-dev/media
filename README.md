@@ -1,4 +1,4 @@
-# Media Geral dos Alunos
+# Média Geral dos Alunos
 
 ## Linguagem
 
