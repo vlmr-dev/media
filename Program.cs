@@ -6,7 +6,7 @@ namespace Media
     {
         static void Main(string[] args)
         {
-            Aluno[] alunos = new Aluno[5];                                // inserção 
+            Aluno[] alunos = new Aluno[5];                                
             var indiceAluno = 0;
             string opcaoUsuario = ObterOpcaoUsuario();                           
 
@@ -35,7 +35,14 @@ namespace Media
                                                 
                         break;
                    case "2":
-                        // TODO: Lista aluno
+                        foreach (var a in alunos)                                              // inserção
+                       {
+                               if (!string.IsNullOrEmpty(a.Nome))
+                               {
+                                   Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
+                               }
+                                
+                       }
                         break;
                    case "3":
                         // TODO: Calcula média geral
